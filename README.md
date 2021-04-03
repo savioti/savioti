@@ -2,7 +2,7 @@
 
 ## I'm Ângelo, a passioned developer
 
-<img alt="GIF" src="https://media.giphy.com/media/Ii3VY9rN94TMVVtyn6/giphy.gif" width= 200/>
+<img alt="GIF" src="https://media.giphy.com/media/fVsVfxVwz40I24GT7X/giphy.gif" width= 200/>
 
 ## I'm currently working with:  
 
