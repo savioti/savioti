@@ -42,10 +42,15 @@
 <a target="_blank" href="https://twitter.com/MSavioti">
   <img align="left" alt="Twitter" src="https://img.shields.io/badge/-Twitter-3d3d3d?style=social&logo=twitter" />
 <a target="_blank" href="https://github.com/MSavioti">
-  <img align="left" alt="Github" src="https://img.shields.io/badge/-Github-3d3d3d?style=social&logo=github" /><br>
+  <img align="left" alt="Github" src="https://img.shields.io/badge/-Github-3d3d3d?style=social&logo=github" /><a/><br>
 
 ## Support me:  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msavioti&show_icons=true&locale=en&layout=compact" alt="msavioti" /></p>
+<a target="_blank" href="https://www.buymeacoffee.com/msavioti">
+  <img align="left" alt="Github" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-3d3d3d?style=social&logo=buy-me-a-coffee" /><a/><br>
+  
+## Some data:
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msavioti&show_icons=true&locale=en&layout=compact" alt="msavioti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msavioti&show_icons=true&locale=en" alt="msavioti" /></p>
