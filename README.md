@@ -1,8 +1,8 @@
 # Hello, stranger!
 
-## I'm Ângelo, a passioned developer
-
 <img alt="GIF" src="https://media.giphy.com/media/fVsVfxVwz40I24GT7X/giphy.gif" width= 200/>
+
+## I'm Ângelo, a passioned developer
 
 ## I'm currently working with:  
 
