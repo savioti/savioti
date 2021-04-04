@@ -25,19 +25,21 @@
 
 ![C](https://img.shields.io/badge/-C-3d3d3d?style=plastic&logo=c)
 ![C++](https://img.shields.io/badge/-C++-3d3d3d?style=plastic&logo=c%2B%2B)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3d3d3d?style=plastic&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3d3d3d?style=plastic&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3d3d3d?style=plastic&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3d3d3d?style=plastic&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3d3d3d?style=plastic&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-3d3d3d?style=plastic&logo=mysql)
 ![HTML](https://img.shields.io/badge/-HTML-3d3d3d?style=plastic&logo=html5)
 
 ### Tecnologies: 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-3d3d3d?style=plastic&logo=node.js&logoColor=339933)
-![Bootstrap](https://img.shields.io/badge/-MySQL-3d3d3d?style=plastic&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-3d3d3d?style=plastic&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3d3d3d?style=plastic&logo=bootstrap)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-3d3d3d?style=plastic&logo=adobe-xd)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-3d3d3d?style=plastic&logo=adobe-photoshop)
+
+## Projects:
 
 ## Connect with me
 
