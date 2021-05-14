@@ -8,8 +8,9 @@
 
 ### Languages:
 
-![C#](https://img.shields.io/badge/-C%23-3d3d3d?style=plastic&logo=c-sharp)
 ![Dart](https://img.shields.io/badge/-Dart-3d3d3d?style=plastic&logo=dart)
+![C#](https://img.shields.io/badge/-C%23-3d3d3d?style=plastic&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-3d3d3d?style=plastic&logo=python)
 ![Java](https://img.shields.io/badge/-Java-3d3d3d?style=plastic&logo=java)
 
 ### Technologies:  
@@ -24,7 +25,6 @@
 
 ![C](https://img.shields.io/badge/-C-3d3d3d?style=plastic&logo=c)
 ![C++](https://img.shields.io/badge/-C++-3d3d3d?style=plastic&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3d3d3d?style=plastic&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3d3d3d?style=plastic&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3d3d3d?style=plastic&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-3d3d3d?style=plastic&logo=mysql)
