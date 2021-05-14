@@ -12,9 +12,8 @@
 ![Dart](https://img.shields.io/badge/-Dart-3d3d3d?style=plastic&logo=dart)
 ![Java](https://img.shields.io/badge/-Java-3d3d3d?style=plastic&logo=java)
 
-### Tecnologies:  
+### Technologies:  
 
-![.NET](https://img.shields.io/badge/-.NET-3d3d3d?style=plastic&logo=.net)
 ![Flutter](https://img.shields.io/badge/-Flutter-3d3d3d?style=plastic&logo=flutter)
 ![Unity](https://img.shields.io/badge/-Unity-3d3d3d?style=plastic&logo=unity)
 ![Git](https://img.shields.io/badge/-Git-3d3d3d?style=plastic&logo=git)
@@ -31,8 +30,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-3d3d3d?style=plastic&logo=mysql)
 ![HTML](https://img.shields.io/badge/-HTML-3d3d3d?style=plastic&logo=html5)
 
-### Tecnologies: 
+### Technologies: 
 
+![.NET](https://img.shields.io/badge/-.NET-3d3d3d?style=plastic&logo=.net)
 ![Node.js](https://img.shields.io/badge/-Node.js-3d3d3d?style=plastic&logo=node.js&logoColor=339933)
 ![MySQL](https://img.shields.io/badge/-MySQL-3d3d3d?style=plastic&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3d3d3d?style=plastic&logo=bootstrap)
@@ -43,10 +43,10 @@
 
 ## Connect with me
 
-<a target="_blank" href="https://www.linkedin.com/in/angelo-savioti">
-  <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-3d3d3d?style=social&logo=linkedin" />
 <a target="_blank" href="https://twitter.com/MSavioti">
   <img align="left" alt="Twitter" src="https://img.shields.io/badge/-Twitter-3d3d3d?style=social&logo=twitter" />
+<a target="_blank" href="https://www.linkedin.com/in/angelo-savioti">
+  <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-3d3d3d?style=social&logo=linkedin" />
 <a target="_blank" href="https://github.com/MSavioti">
   <img align="left" alt="Github" src="https://img.shields.io/badge/-Github-3d3d3d?style=social&logo=github" /><a/><br>
 
