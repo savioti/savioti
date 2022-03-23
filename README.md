@@ -10,14 +10,12 @@
 
 ![Dart](https://img.shields.io/badge/-Dart-3d3d3d?style=plastic&logo=dart)
 ![C#](https://img.shields.io/badge/-C%23-3d3d3d?style=plastic&logo=c-sharp)
-![Python](https://img.shields.io/badge/-Python-3d3d3d?style=plastic&logo=python)
-![Java](https://img.shields.io/badge/-Java-3d3d3d?style=plastic&logo=java)
+![Rust](https://img.shields.io/badge/-Rust-3d3d3d?style=plastic&logo=rust)
 
 ### Technologies:  
 
 ![Flutter](https://img.shields.io/badge/-Flutter-3d3d3d?style=plastic&logo=flutter)
 ![Unity](https://img.shields.io/badge/-Unity-3d3d3d?style=plastic&logo=unity)
-![.NET](https://img.shields.io/badge/-.NET-3d3d3d?style=plastic&logo=.net)
 ![Git](https://img.shields.io/badge/-Git-3d3d3d?style=plastic&logo=git)
 
 ## But I'm also familiar with:  
@@ -28,12 +26,15 @@
 ![C++](https://img.shields.io/badge/-C++-3d3d3d?style=plastic&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3d3d3d?style=plastic&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3d3d3d?style=plastic&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-3d3d3d?style=plastic&logo=python)
+![Java](https://img.shields.io/badge/-Java-3d3d3d?style=plastic&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-3d3d3d?style=plastic&logo=mysql)
 ![HTML](https://img.shields.io/badge/-HTML-3d3d3d?style=plastic&logo=html5)
 
 ### Technologies: 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-3d3d3d?style=plastic&logo=node.js&logoColor=339933)
+![.NET](https://img.shields.io/badge/-.NET-3d3d3d?style=plastic&logo=.net)
 ![MySQL](https://img.shields.io/badge/-MySQL-3d3d3d?style=plastic&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3d3d3d?style=plastic&logo=bootstrap)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-3d3d3d?style=plastic&logo=adobe-xd)
