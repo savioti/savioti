@@ -2,7 +2,7 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/fVsVfxVwz40I24GT7X/giphy.gif" width= 200/>
 
-## I'm Ângelo, a passioned developer
+## I'm Ângelo Savioti, a passioned developer
 
 ## I'm currently working with:  
 
@@ -15,7 +15,6 @@
 
 ![Flutter](https://img.shields.io/badge/-Flutter-3d3d3d?style=plastic&logo=flutter)
 ![Unity](https://img.shields.io/badge/-Unity-3d3d3d?style=plastic&logo=unity)
-![Git](https://img.shields.io/badge/-Git-3d3d3d?style=plastic&logo=git)
 
 ## But I'm also familiar with:  
 
@@ -33,12 +32,8 @@
 
 ### Technologies: 
 
-![Node.js](https://img.shields.io/badge/-Node.js-3d3d3d?style=plastic&logo=node.js&logoColor=339933)
-![.NET](https://img.shields.io/badge/-.NET-3d3d3d?style=plastic&logo=.net)
-![MySQL](https://img.shields.io/badge/-MySQL-3d3d3d?style=plastic&logo=mysql)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-3d3d3d?style=plastic&logo=bootstrap)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-3d3d3d?style=plastic&logo=adobe-xd)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-3d3d3d?style=plastic&logo=adobe-photoshop)
+![Git](https://img.shields.io/badge/-Git-3d3d3d?style=plastic&logo=git)
 
 ## Projects:
 
@@ -50,11 +45,6 @@
   <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-3d3d3d?style=social&logo=linkedin" />
 <a target="_blank" href="https://github.com/MSavioti">
   <img align="left" alt="Github" src="https://img.shields.io/badge/-Github-3d3d3d?style=social&logo=github" /><a/><br>
-
-## Support me:  
-
-<a target="_blank" href="https://www.buymeacoffee.com/msavioti">
-  <img align="left" alt="Github" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-3d3d3d?style=social&logo=buy-me-a-coffee" /><a/><br>
   
 ## Some data:
 
