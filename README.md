@@ -10,7 +10,7 @@
 
 ![Dart](https://img.shields.io/badge/-Dart-3d3d3d?style=plastic&logo=dart)
 ![C#](https://img.shields.io/badge/-C%23-3d3d3d?style=plastic&logo=c-sharp)
-![GDScript](https://img.shields.io/badge/-GDScript?style=plastic&logo=godot-engine)
+![GDScript](https://img.shields.io/badge/-GDScript-3d3d3d?style=plastic&logo=godot-engine)
 
 ### Technologies:  
 
