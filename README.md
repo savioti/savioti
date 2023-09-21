@@ -6,24 +6,26 @@
 
 I'm Ângelo Savioti! I work mainly as a Flutter Developer, but in my free time, I am a game developer building videogames with strong messages and open source game development tools.
 
-## I'm currently working with:  
+## What I work with
 
-### Languages:
+### I'm currently working with:  
+
+#### Languages:
 
 ![Dart](https://img.shields.io/badge/-Dart-3d3d3d?style=plastic&logo=dart)
 ![C#](https://img.shields.io/badge/-C%23-3d3d3d?style=plastic&logo=c-sharp)
 ![GDScript](https://img.shields.io/badge/-GDScript-3d3d3d?style=plastic&logo=godot-engine)
 
-### Technologies:  
+#### Technologies:  
 
 ![Flutter](https://img.shields.io/badge/-Flutter-3d3d3d?style=plastic&logo=flutter)
 ![Unity](https://img.shields.io/badge/-Unity-3d3d3d?style=plastic&logo=unity)
 ![Godot](https://img.shields.io/badge/-Godot-3d3d3d?style=plastic&logo=godot-engine)
 ![Git](https://img.shields.io/badge/-Git-3d3d3d?style=plastic&logo=git)
 
-## But I'm also familiar with:  
+### But I'm also familiar with:  
 
-### Languages:  
+#### Languages:  
 
 ![C](https://img.shields.io/badge/-C-3d3d3d?style=plastic&logo=c)
 ![C++](https://img.shields.io/badge/-C++-3d3d3d?style=plastic&logo=c%2B%2B)
@@ -35,7 +37,7 @@ I'm Ângelo Savioti! I work mainly as a Flutter Developer, but in my free time, 
 ![SQL](https://img.shields.io/badge/-SQL-3d3d3d?style=plastic&logo=mysql)
 ![HTML](https://img.shields.io/badge/-HTML-3d3d3d?style=plastic&logo=html5)
 
-### Technologies: 
+#### Technologies: 
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-3d3d3d?style=plastic&logo=adobe-photoshop)
 ![Figma](https://img.shields.io/badge/-Figma-3d3d3d?style=plastic&logo=figma)
