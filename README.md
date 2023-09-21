@@ -41,6 +41,19 @@ I'm Ângelo Savioti! I work mainly as a Flutter Developer, but in my free time, 
 
 ## Projects:
 
+### Flutter
+
+- https://github.com/savioti/my_favorite_games
+- https://github.com/savioti/flutter_tube
+
+### Godot
+
+https://github.com/PixelRougeStudio#godot
+
+### Unity
+
+https://github.com/PixelRougeStudio#unity
+
 ## Connect with me
 
 <a target="_blank" href="https://twitter.com/MSavioti">
