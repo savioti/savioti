@@ -2,7 +2,7 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/fVsVfxVwz40I24GT7X/giphy.gif" width= 200/>
 
-## I'm Ângelo Savioti, a passioned developer
+## I'm Ângelo Savioti! I work mainly as a Flutter Developer, but in my free time, I am a developer building videogames with strong messages and open source game development tools.
 
 ## I'm currently working with:  
 
@@ -17,6 +17,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-3d3d3d?style=plastic&logo=flutter)
 ![Unity](https://img.shields.io/badge/-Unity-3d3d3d?style=plastic&logo=unity)
 ![Godot](https://img.shields.io/badge/-Godot-3d3d3d?style=plastic&logo=godot-engine)
+![Git](https://img.shields.io/badge/-Git-3d3d3d?style=plastic&logo=git)
 
 ## But I'm also familiar with:  
 
@@ -35,7 +36,6 @@
 ### Technologies: 
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-3d3d3d?style=plastic&logo=adobe-photoshop)
-![Git](https://img.shields.io/badge/-Git-3d3d3d?style=plastic&logo=git)
 
 ## Projects:
 
