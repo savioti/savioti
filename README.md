@@ -10,11 +10,13 @@
 
 ![Dart](https://img.shields.io/badge/-Dart-3d3d3d?style=plastic&logo=dart)
 ![C#](https://img.shields.io/badge/-C%23-3d3d3d?style=plastic&logo=c-sharp)
+![GDScript](https://img.shields.io/badge/-C%23-3d3d3d?style=plastic&logo=godot-engine)
 
 ### Technologies:  
 
 ![Flutter](https://img.shields.io/badge/-Flutter-3d3d3d?style=plastic&logo=flutter)
 ![Unity](https://img.shields.io/badge/-Unity-3d3d3d?style=plastic&logo=unity)
+![Godot](https://img.shields.io/badge/-Unity-3d3d3d?style=plastic&logo=godot-engine)
 
 ## But I'm also familiar with:  
 
