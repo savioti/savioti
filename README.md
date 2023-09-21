@@ -2,9 +2,9 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/fVsVfxVwz40I24GT7X/giphy.gif" width= 200/>
 
-## I'm Ângelo Savioti!
+## Who am I? (Good question!)
 
-I work mainly as a Flutter Developer, but in my free time, I am a game developer building videogames with strong messages and open source game development tools.
+I'm Ângelo Savioti! I work mainly as a Flutter Developer, but in my free time, I am a game developer building videogames with strong messages and open source game development tools.
 
 ## I'm currently working with:  
 
