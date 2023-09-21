@@ -38,6 +38,7 @@ I'm Ângelo Savioti! I work mainly as a Flutter Developer, but in my free time, 
 ### Technologies: 
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-3d3d3d?style=plastic&logo=adobe-photoshop)
+![Figma](https://img.shields.io/badge/-Figma-3d3d3d?style=plastic&logo=figma)
 
 ## Projects:
 
